@@ -1,0 +1,28 @@
+{
+  "name": "reactdemo",
+  "version": "1.0.0",
+  "description": "for react learning",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "^14.3.0",
+    "react": "^15.5.4",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PingLinju/ReactStudy.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "LiPing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PingLinju/ReactStudy/issues"
+  },
+  "homepage": "https://github.com/PingLinju/ReactStudy#readme"
+}
